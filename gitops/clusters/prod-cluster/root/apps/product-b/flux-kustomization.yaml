@@ -6,6 +6,7 @@ metadata:
 spec:
   interval: 5m
   path: product-b-config/deploy
+  targetNamespace: product-b
   prune: true
   sourceRef:
     kind: GitRepository
