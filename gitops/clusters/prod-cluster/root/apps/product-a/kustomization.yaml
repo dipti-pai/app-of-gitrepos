@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
   - ./gitrepo.yaml
   - ./flux-kustomization.yaml
-path: product-a-config/deploy
